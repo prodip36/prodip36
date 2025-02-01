@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **prodip36/prodip36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prodip.sarkar.3720190) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prodip36) 
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prodip36&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
