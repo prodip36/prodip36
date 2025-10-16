@@ -1,8 +1,6 @@
 
-**prodip36/prodip36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**prodip36/prodip36** 
+Hey there..
 - 🔭 I’m currently working on React js.
 - 🌱 I’m currently learning frontend+backend development.
 - 👯 I’m looking to collaborate on industrial projects.
